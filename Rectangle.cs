@@ -1,6 +1,6 @@
 ﻿namespace RectangularPrism
 {
-    class Rectangle
+    public class Rectangle
     {
         private int length;
         private int width;
